@@ -1,0 +1,46 @@
+local SignsConfig = require('gitsigns.config').Config.SignsConfig
+
+local M = {Sign = {}, HlDef = {}, }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+return M
